@@ -1,0 +1,13 @@
+[2025-07-11T07:00:43.727Z] {"trackingId":"email-1752217243614-73i83d","status":"sent","attempts":1,"createdAt":1752217243614,"provider":"ProviderA","sentAt":1752217243727}
+[2025-07-11T07:00:43.836Z] {"trackingId":"email-1752217243731-lvzryq","status":"sent","attempts":1,"createdAt":1752217243731,"provider":"ProviderA","sentAt":1752217243836}
+[2025-07-11T07:00:44.149Z] {"trackingId":"email-1752217243838-dxf3wb","status":"sent","attempts":2,"createdAt":1752217243838,"provider":"ProviderB","sentAt":1752217244149}
+[2025-07-11T07:00:44.366Z] {"trackingId":"email-1752217244150-mf0db6","status":"sent","attempts":1,"createdAt":1752217244150,"provider":"ProviderA","sentAt":1752217244366}
+[2025-07-11T07:00:45.189Z] {"trackingId":"email-1752217244475-xfrnlg","status":"failed","attempts":3,"createdAt":1752217244475,"error":"Circuit breaker tripped"}
+[2025-07-11T09:14:56.391Z] {"trackingId":"email-1752225290345-e0wm3y","status":"failed","attempts":3,"createdAt":1752225290346,"error":"Circuit breaker tripped"}
+[2025-07-11T09:15:12.839Z] {"trackingId":"email-1752225312750-kgxwt5","status":"failed","attempts":0,"createdAt":1752225312750,"error":"Circuit breaker tripped"}
+[2025-07-11T09:15:18.390Z] {"trackingId":"email-1752225318285-t4z9z8","status":"failed","attempts":0,"createdAt":1752225318285,"error":"Circuit breaker tripped"}
+[2025-07-11T09:15:21.226Z] {"trackingId":"email-1752225321184-wzkygo","status":"failed","attempts":0,"createdAt":1752225321184,"error":"Circuit breaker tripped"}
+[2025-07-11T09:15:22.100Z] {"trackingId":"email-1752225322014-527bqj","status":"failed","attempts":0,"createdAt":1752225322014,"error":"Circuit breaker tripped"}
+[2025-07-11T09:15:22.866Z] {"trackingId":"email-1752225322762-iz233v","status":"failed","attempts":0,"createdAt":1752225322762,"error":"Circuit breaker tripped"}
+[2025-07-11T09:15:23.522Z] {"trackingId":"email-1752225323425-4pafrc","status":"failed","attempts":0,"createdAt":1752225323425,"error":"Circuit breaker tripped"}
+[2025-07-11T09:16:06.150Z] {"trackingId":"email-1752225366066-7be999","status":"sent","attempts":1,"createdAt":1752225366066,"provider":"ProviderA","sentAt":1752225366150}
